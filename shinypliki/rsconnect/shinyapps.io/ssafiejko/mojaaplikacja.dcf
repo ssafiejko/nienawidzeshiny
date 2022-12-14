@@ -1,0 +1,14 @@
+name: mojaaplikacja
+title: mojaaplikacja
+username:
+account: ssafiejko
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 7887925
+bundleId: 6635239
+url: https://ssafiejko.shinyapps.io/mojaaplikacja/
+when: 1671006415.84939
+lastSyncTime: 1671006415.84941
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: nowa_ramka.csv

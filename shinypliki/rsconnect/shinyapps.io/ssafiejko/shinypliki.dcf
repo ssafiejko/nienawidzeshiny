@@ -1,0 +1,13 @@
+name: shinypliki
+title: shinypliki
+username:
+account: ssafiejko
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 7887864
+bundleId: 6633860
+url: https://ssafiejko.shinyapps.io/shinypliki/
+when: 1670973777.95172
+lastSyncTime: 1670973777.95173
+asMultiple: FALSE
+asStatic: FALSE
